@@ -1,2 +1,2 @@
 export { MultiSelect } from './MultiSelect';
-export { TreeSelect } from './TreeSelect';
+export type { IMultiSelect } from './types';
